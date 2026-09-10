@@ -13,8 +13,8 @@
  */
 
 module.exports = {
-  id: "challengeratingincrease?",
-  title: "Challenge Rating Increase?",
+  id: "challengeratingincrease",
+  title: "Challenge Rating Increase",
   content: [
     {
       type: "paragraph",
